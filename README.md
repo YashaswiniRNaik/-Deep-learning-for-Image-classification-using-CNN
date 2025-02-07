@@ -1,8 +1,11 @@
 # -Deep-learning-for-Image-classification-using-CNN
 
 o Situation: Glasses detection which plays an important role in face recognition and soft biometrics for person identification.
+
 o Task: CNN model should be able to classify the people with and without glasses.
+
 o Action: CNN model built used to draw inference on Image augmentation.
+
 o Result: Achieved classification by image augmentation techniques like rotation, zoom, and flipping help increase the diversity of training data, improving the model's ability to generalize and handle variations like lighting and orientation.
 
 Inference on Image Augmentation:
